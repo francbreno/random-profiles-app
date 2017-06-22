@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.wrap-content {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  background-color: #FEFEFE;
+}
+
+.search-results {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  max-width: 72%;
+}
